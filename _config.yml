@@ -1,0 +1,24 @@
+title: Кляпко Владислав Андреевич
+
+logo: "/images/face.png?raw=true"
+
+navigation:
+  - title: Портфолио
+    url: portfolio
+  - title: Опыт работы
+    url: work_experience
+  - title: Образование
+    url: education
+  - title: Повышение квалификации
+    url: professional_development
+  - title: 
+    url: 
+  - title: Электронная почта 
+    url: mailto:klyapko.rv@yandex.ru
+  - title: Телеграм
+    url: https://t.me/vklyapko
+  - title: GitHub
+    url: https://github.com/KlyapkoV
+    
+ 
+theme: jekyll-theme-minimal
