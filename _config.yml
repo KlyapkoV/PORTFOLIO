@@ -5,7 +5,7 @@ logo: "/images/face.png?raw=true"
 navigation:
   - title: Портфолио
     url: portfolio
-  - title: Опыт работы
+  - title: Карьера
     url: work_experience
   - title: Образование
     url: education
