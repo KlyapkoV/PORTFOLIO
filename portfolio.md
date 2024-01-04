@@ -1,4 +1,4 @@
-<h1 align="center">ПОРТФОЛИО</h1>
+<h1 align="center">Портфолио</h1>
 
 ---
 
